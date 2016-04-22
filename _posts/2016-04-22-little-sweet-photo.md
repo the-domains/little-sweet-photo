@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Little Sweet Photo
-datePublished: '2016-04-22T03:30:11.732Z'
-dateModified: '2016-04-22T03:28:59.011Z'
+description: ''
+datePublished: '2016-04-22T03:31:57.853Z'
+dateModified: '2016-04-22T03:30:39.507Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-little-sweet-photo.md
@@ -35,4 +35,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be2b0ecf-139a-4096-aba5-13a98d66ca46.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f3eaa4c-8881-4fb1-938e-dae3865cfceb.jpg)
 
-Little Sweet Photo
+*
