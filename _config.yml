@@ -2,6 +2,7 @@ name: Little Sweet Photo
 favicon: null
 layout_spectrum: 0.8746272325515747
 typography_spectrum: 0.4046183943282813
+title: Little Sweet Photo
 cta:
   domain: null
   bucket: null
